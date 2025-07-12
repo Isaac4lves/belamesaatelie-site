@@ -3,7 +3,7 @@ import "./globals.css";
 
 export default function Home() {
   return (
-    <div className="flex items-center justify-center min-h-screen px-6 sm:px-10 md:px-20 pb-20 gap-10 md:gap-16 mt-5">
+    <div className="flex items-center justify-center min-h-screen px-6 sm:px-10 md:px-20 pb-20 gap-10 md:gap-16">
       <section
         id="hero"
         className="flex flex-col lg:flex-row items-center justify-center gap-10 md:gap-15 text-center md:text-left w-full max-w-[1200px]"
